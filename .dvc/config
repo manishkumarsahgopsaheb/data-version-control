@@ -1,0 +1,6 @@
+[core]
+    remote = my_storage
+['remote "remote_storage"']
+    url = ../projectsPythonProjectsdvc_remote
+['remote "my_storage"']
+    url = F:/projects/PythonProjects/dataModelStored
