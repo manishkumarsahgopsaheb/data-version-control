@@ -1,0 +1,6 @@
+[core]
+    remote = mystorage
+['remote "mystorage"']
+    url = F:/projects/DVC demo/saving data to storage/Storage
+['remote "awsstorage"']
+    url = https://s3.console.aws.amazon.com/s3/buckets/dummystorage?region=us-east-1&tab=objects
